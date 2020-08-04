@@ -20,6 +20,6 @@ I'm passionate for learn about new technologies and resolve problems with it.
 
 <br/> :eyes: &nbsp; Student looking for opportunities into web development area. :blush:
 <br/> :computer: &nbsp; I'm currently learning about ReactJS, React Native, NodeJS and TypeScript.
-<br/> :dancers: &nbsp; I'm looking to colaborate with Javascript, HTML5 and CSS.
+<br/> :dancers: &nbsp; I'm looking to collaborate with Javascript, HTML5 and CSS.
 <br/> :speech_balloon: &nbsp; About me: love for technologies, books :books:, music :musical_note: and pizza :pizza:. 
 <br/> :email: &nbsp; Contact me on LinkedIn: https://www.linkedin.com/in/evelynsfran%C3%A7a/
