@@ -1,5 +1,2 @@
-# Evelyn França
 
-System Analysis and Development student at PUCPR.
-
-Java web developer at Giro.tech.
+[![Evelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=evelynsfranca)](https://github.com/anuraghazra/github-readme-stats)
